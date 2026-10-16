@@ -27,8 +27,6 @@ cd qho640-week1
 
 ## 1. What happens when you use a web app?
 
-![Animated flow of a user interacting with JavaScript, an API and stored data](assets/web-flow.svg)
-
 ```mermaid
 flowchart LR
     A[Student clicks a button] --> B[Browser handles event]
